@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **CPP, Javascript**
 
-- 📫 How to reach me **dimayura@gmail.com**
+- 📫 How to reach me **dimayuranaik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
