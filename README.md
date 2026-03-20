@@ -4,9 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimayura" alt="dimayura" /></a> </p>
 
-- 🔭 I’m currently working on **FinanceApp - a C# ASP.NET finance management application**  
-- 🌱 I’m currently learning **Angular, React, and deepening my .NET skills**  
-- 👯 I’m looking to collaborate on **web development and .NET backend projects**  
 - 👨‍💻 All of my projects are available at [https://github.com/dimayura](https://github.com/dimayura)  
 - 💬 Ask me about **C#, .NET, C++, JavaScript**  
 - 📫 How to reach me: **dimayuranaik@gmail.com**
