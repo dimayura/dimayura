@@ -1,11 +1,8 @@
 <h3 align="center">A passionate full-stack developer from India specializing in Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimayura&label=Profile%20views&color=0e75b6&style=flat" alt="dimayura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimayura" alt="dimayura" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimayura](https://github.com/dimayura)  
-- 💬 Ask me about **C#, .NET, C++, JavaScript**  
 - 📫 How to reach me: **dimayuranaik@gmail.com**
 
 
