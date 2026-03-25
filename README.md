@@ -8,9 +8,6 @@
 - 💬 Ask me about **C#, .NET, C++, JavaScript**  
 - 📫 How to reach me: **dimayuranaik@gmail.com**
 
-<h3 align="left">Featured Project: FinanceApp</h3>
-
-<p>FinanceApp is a personal finance management system built using <b>C#</b> and <b>ASP.NET</b>. It includes features like budget tracking, expense categorization, and financial reports.</p>
 
 <p>GitHub Repo: <a href="https://github.com/dimayura/FinanceApp">https://github.com/dimayura/FinanceApp</a></p>
 
@@ -53,6 +50,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimayura&show_icons=true&locale=en&layout=compact" alt="dimayura" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimayura&layout=compact&langs_count=8&cache_seconds=30" alt="dimayura" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimayura&show_icons=true&locale=en" alt="dimayura" /></p>
